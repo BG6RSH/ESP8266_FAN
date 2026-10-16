@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fan.svg</file>
+        <file>svg/volume-0.svg</file>
+        <file>svg/volume-1.svg</file>
+        <file>svg/volume-2.svg</file>
+        <file>svg/volume-x.svg</file>
+    </qresource>
+</RCC>
